@@ -26,8 +26,9 @@ I can create Solidity / Rust based smart contracts and integrate those by using 
 
 
 
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Rust-brightgreen?style=flat&logo=solana&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)
