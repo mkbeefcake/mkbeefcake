@@ -9,7 +9,7 @@ I can create Solidity / Rust based smart contracts and integrate those by using 
   <img align="right" alt="GIF" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/code.gif?raw=true" width="450" height="320" />
 
 
-## Main Skill
+## Main Skills
 
 
 
@@ -38,7 +38,7 @@ I can create Solidity / Rust based smart contracts and integrate those by using 
 ![](https://img.shields.io/badge/ubuntu-v18.04.1--0ubuntu1-blue?style=flat&logoColor=white&color=3bac3a)
 
 
-### Web Skills
+### Web Frameworks
 
 
 
@@ -49,4 +49,3 @@ I can create Solidity / Rust based smart contracts and integrate those by using 
 <code><img height="20" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
