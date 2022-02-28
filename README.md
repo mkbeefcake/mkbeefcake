@@ -47,4 +47,6 @@ I can create Solidity / Rust based smart contracts and integrate those by using 
 ![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/ubuntu-v18.04.1--0ubuntu1-blue?style=flat&logoColor=white&color=3bac3a)
+
 
