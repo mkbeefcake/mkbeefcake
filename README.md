@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Over 9 years of work experience in Software Development and designed & developed across multiple products; by creating proof of concept, developing a minimal viable product (MVP), testing and iteratinf from their understanding business outcomes and using business metrics to engineer better solutions.
+Over 9 years of work experience in Software Development and designed & developed across multiple products; by creating proof of concept, developing a minimal viable product (MVP), testing and iterating from their understanding business outcomes and using business metrics to engineer better solutions.
 
 From 2019, have been working on Blockchain & Web3 technologies for dApps, DeFi, DAO, NFT, SwapBot on Ethereum, L2 and Solana networks.
 I can create Solidity / Rust based smart contracts and integrate those by using Ethers.js / Solana-web3.js for JSON RPC API calls. 
