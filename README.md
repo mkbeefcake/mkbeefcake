@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 Over 9 years of work experience in Software Development and designed & developed across multiple products; by creating proof of concept, developing a minimal viable product (MVP), testing and iterating from their understanding business outcomes and using business metrics to engineer better solutions.
+The major skills were open source libary customization, cross platform support software development, linux administartion/management tools development and React / Vue based frontend developments. 
 
 From 2019, have been working on Blockchain & Web3 technologies for dApps, DeFi, DAO, NFT, SwapBot on Ethereum, L2 and Solana networks.
 I can create Solidity / Rust based smart contracts and integrate those by using Ethers.js / Solana-web3.js for JSON RPC API calls. 
+Technically am familiar with Hardhat, Anchor framework for both platforms and used alchemy, infura, quicknodes node providers.
 
+When I work on web3 frontend integration, I integrated metamask, coinbase and external connectors for signing transactions on React / Next projects.
 
   <img align="right" alt="GIF" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/code.gif?raw=true" width="450" height="320" />
 
