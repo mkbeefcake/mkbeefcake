@@ -2,14 +2,14 @@
 
 With many years of work experience in Software Development and designed & developed across multiple products; by creating proof of concept, developing a minimal viable product (MVP), testing and iterating from their understanding business outcomes and using business metrics to engineer better solutions.
 
-- Skillsets
-Javascript/Typescript, Python, C++ programming languages
-React, Node, FastAPI frameworks for full stack development
-Web3, AI technologies
+1. Skillsets
+- Javascript/Typescript, Python, C++ programming languages
+- React, Node, FastAPI frameworks for full stack development
+- Web3, AI technologies 
   
-- Experience
-A member of Joystream community, involved as Web3 / React frontend developer
-A member of LLM solution, involved as FastAPI / React Fullstack developer
+2. Experience
+- A member of Joystream community, involved as Web3 / React frontend developer, worked on DAO website
+- A member of LLM solution, involved as FastAPI / React Fullstack developer, worked on AI chatbot.
 
 
 ## Main Skills
