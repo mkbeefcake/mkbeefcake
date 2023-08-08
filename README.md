@@ -3,8 +3,8 @@
 With many years of work experience in Software Development and designed & developed across multiple products; by creating proof of concept, developing a minimal viable product (MVP), testing and iterating from their understanding business outcomes and using business metrics to engineer better solutions.
 
 1. Skillsets
-- Javascript/Typescript, Python, C++ programming languages
-- React, Node, FastAPI frameworks for full stack development
+- Javascript/Typescript, Python, C++
+- React, Node, FastAPI
 - Web3, AI technologies 
   
 2. Experience
