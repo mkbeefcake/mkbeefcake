@@ -10,6 +10,7 @@ With many years of work experience in Software Development and designed & develo
 2. Experience
 - A member of Joystream community, involved as Web3 / React frontend developer, worked on DAO website
 - A member of LLM solution, involved as FastAPI / React Fullstack developer, worked on AI chatbot.
+- A member of Rumba.ai, worked on MVP website as core developer, integrated OpenAI, HuggingFace
 
 
 ## Main Skills
