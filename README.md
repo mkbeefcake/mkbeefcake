@@ -16,7 +16,7 @@ With many years of work experience in Software Development and designed & develo
 - ChatAutomation: AI Chatbot platform - FastAPI / React full stack development for LLM Solution
 - Rumba.ai: AI based social media content system - worked on MVP website as core developer, integrated OpenAI, HuggingFace
 - Pioneerapp.xyz : Joystream DAO website - Web3 / React frontend development for Joystream community
-- 
+- Thoughtware: React Native based mobile app 
 
 
 ## Main Skills
