@@ -15,7 +15,8 @@ With many years of work experience in Software Development and designed & develo
 3. Projects
 - DataUnion.app : DataUnion Portal Website - Web3 / React frontend development on Ethereum network
 - Pioneerapp.xyz : Joystream DAO Website - Web3 / React frontend development for Joystream network
-- Copilot Travel: SOAP XML to GraphQL server - Consultant
+- Copilot Travel: SOAP XML to GraphQL server - OpenAI / LangGraph 
+- Cience AI : AI based content generation console - OpenAI LLM / Langchain 
 - Thoughtware: React Native based mobile app
 - GFEX: Gas Condensate Ratio Calculation Platform - Vue / Electron based user face platform with Fortran based engine core
 
