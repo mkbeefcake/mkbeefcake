@@ -5,18 +5,17 @@ With many years of work experience in Software Development and designed & develo
 1. Skillsets
 - Javascript/Typescript, Python, C++, Java, PHP
 - React, Vue, Node, FastAPI
-- Web3, AI, Full Stack development 
+- Web3, Full Stack development, OpenAI 
   
 2. Community
-- A founding member of Joystream community
+- A founding member of Joystream Blockchain community
 - A member of LLM Solutions
 - A member of Cyneward
 
 3. Projects
-- Copilot Travel: SOAP XML to GraphQL server - AI LLM Consultant
-- ChatAutomation: AI Chatbot platform - FastAPI / React full stack development for LLM Solution
-- Rumba.ai: AI based social media content system - worked on MVP website as core developer, integrated OpenAI, HuggingFace
-- Pioneerapp.xyz : Joystream DAO website - Web3 / React frontend development for Joystream community
+- DataUnion.app : DataUnion Portal Website - Web3 / React frontend development on Ethereum network
+- Pioneerapp.xyz : Joystream DAO Website - Web3 / React frontend development for Joystream network
+- Copilot Travel: SOAP XML to GraphQL server - Consultant
 - Thoughtware: React Native based mobile app
 - GFEX: Gas Condensate Ratio Calculation Platform - Vue / Electron based user face platform with Fortran based engine core
 
