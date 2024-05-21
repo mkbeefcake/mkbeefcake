@@ -4,8 +4,8 @@ With many years of work experience in Software Development and designed & develo
 
 1. Skillsets
 - Javascript/Typescript, Python, C++, Java, PHP
-- React, Vue, Node, FastAPI
-- Web3, Full Stack development, OpenAI 
+- React, Vue, Node, FastAPI, Laravel
+- Rust, Solidity, Golang, Web3, OpenAI 
   
 2. Community
 - A founding member of Joystream Blockchain community
