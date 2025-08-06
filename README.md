@@ -3,23 +3,19 @@
 With many years of work experience in Software Development and designed & developed across multiple products; by creating proof of concept, developing a minimal viable product (MVP), testing and iterating from their understanding business outcomes and using business metrics to engineer better solutions.
 
 1. Skillsets
-- Javascript/Typescript, Python, C++, Java, PHP
-- React, Vue, Node, FastAPI, Laravel
-- Rust, Solidity, Golang, Web3, OpenAI 
+- JavaScript/TS, Python, C++, Java, PHP
+- React/Node, FastAPI/NumPy/Pandas, Laravel
+- OpenAI, Web3
   
 2. Community
-- A founding member of Joystream Blockchain community
-- A member of LLM Solutions
-- A member of Cyneward
+- A founding member of Joystream Community
+- A member of LLM Solutions for AI based products
+- A member of Cyneward for System Security product
 
 3. Projects
-- DataUnion.app : DataUnion Portal Website - Web3 / React frontend development on Ethereum network
-- Pioneerapp.xyz : Joystream DAO Website - Web3 / React frontend development for Joystream network
-- Copilot Travel: SOAP XML to GraphQL server - OpenAI / LangGraph 
-- Cience AI : AI based content generation console - OpenAI LLM / Langchain 
-- Thoughtware: React Native based mobile app
-- GFEX: Gas Condensate Ratio Calculation Platform - Vue / Electron based user face platform with Fortran based engine core
-
+- Copilot Travel: OpenAI based internal tool for Travel ticketing system
+- Cience AI : OpenAI based content generation tool
+- Pioneerapp.xyz : Joystream DAO Website development
 
 ## Main Skills
 
